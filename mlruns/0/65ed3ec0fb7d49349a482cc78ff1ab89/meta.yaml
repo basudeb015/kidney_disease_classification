@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Basu/anaconda3/kidney_disease_classification/mlruns/0/65ed3ec0fb7d49349a482cc78ff1ab89/artifacts
+end_time: 1697484188320
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 65ed3ec0fb7d49349a482cc78ff1ab89
+run_name: redolent-robin-919
+run_uuid: 65ed3ec0fb7d49349a482cc78ff1ab89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1697484174441
+status: 3
+tags: []
+user_id: Basu
